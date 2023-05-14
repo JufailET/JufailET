@@ -2,7 +2,7 @@ github profile readme.md
 
 # Hi there 👋
 
-I'm [Your Name], a web developer who loves to build beautiful, responsive, and user-friendly websites. 
+I'm Jufail ET, a web developer who loves to build beautiful, responsive, and user-friendly websites. 
 
 ## Skills
 
